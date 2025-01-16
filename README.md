@@ -1,11 +1,7 @@
 **📊 Madhav E-Commerce Sales Dashboard**
-
-
 This Power BI dashboard provides a comprehensive overview of Madhav's e-commerce sales performance with interactive visualizations and actionable insights.
-
 🔑 Key Features
 🚀 Overall Metrics:
-
 💰 118K: Total Sales Amount
 📈 12K: Total Profit
 📦 1,409: Total Quantity Sold
@@ -36,6 +32,7 @@ A bar chart featuring high-value customers like Lalita, Abhijeet, and Abhishek b
 🎯 Interactive Features
 Quarterly Filters: Analyze data for each quarter seamlessly.
 State Filters: Drill down into specific state-wise performance metrics.
+
 ✨ Benefits
 📍 Regional Insights: Identify top-performing states for targeted strategies.
 📊 Performance Tracking: Track monthly profits and sub-category contributions.

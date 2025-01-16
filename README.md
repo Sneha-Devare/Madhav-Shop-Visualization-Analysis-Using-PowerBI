@@ -40,14 +40,21 @@ Credit Card (12.1%) 💳
 🙋‍♂️ Top Customers:
 
 A bar chart featuring high-value customers like Lalita, Abhijeet, and Abhishek based on their spending.
+
 🎯 Interactive Features
+
 Quarterly Filters: Analyze data for each quarter seamlessly.
+
 State Filters: Drill down into specific state-wise performance metrics.
 
 ✨ Benefits
+
 📍 Regional Insights: Identify top-performing states for targeted strategies.
+
 📊 Performance Tracking: Track monthly profits and sub-category contributions.
+
 💡 Business Optimization: Understand customer preferences and payment trends to improve services.
+
 This dashboard is ideal for business analysts and decision-makers looking for meaningful insights into e-commerce sales performance.
 
 ![Screenshot (5)](https://github.com/user-attachments/assets/50a9896b-18a0-4ee6-9cc0-17d6b6f13c11)

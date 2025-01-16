@@ -1,25 +1,42 @@
 **📊 Madhav E-Commerce Sales Dashboard**
 
 🔑 Key Features
+
 🚀 Overall Metrics:
+
 💰 118K: Total Sales Amount
+
 📈 12K: Total Profit
+
 📦 1,409: Total Quantity Sold
+
 🛒 33K: Average Order Value (AOV)
+
+
 🌍 State-Wise Sales Analysis:
 
-
 🏆 Maharashtra leads, followed by Madhya Pradesh, Uttar Pradesh, and Rajasthan.
+
 📂 Category-Wise Quantity Distribution:
+
 (👗 65.51%) as the top category, followed by Electronics (📱 21.29%) and Furniture (🪑 13.2%).
+
 A bar chart tracking profit trends across months.
+
 November shines as the most profitable month 🏆.
+
+
 💳 Payment Mode Analysis:
 
 A donut chart reveals the preferred payment methods:
+
 COD (44.14%) 🚚
+
 UPI (22%) 📲
+
 Credit Card (12.1%) 💳
+
+
 🙋‍♂️ Top Customers:
 
 A bar chart featuring high-value customers like Lalita, Abhijeet, and Abhishek based on their spending.

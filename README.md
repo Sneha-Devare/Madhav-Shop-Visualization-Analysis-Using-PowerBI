@@ -1,4 +1,6 @@
-📊 Madhav E-Commerce Sales Dashboard
+**📊 Madhav E-Commerce Sales Dashboard**
+
+
 This Power BI dashboard provides a comprehensive overview of Madhav's e-commerce sales performance with interactive visualizations and actionable insights.
 
 🔑 Key Features
@@ -38,7 +40,9 @@ State Filters: Drill down into specific state-wise performance metrics.
 📍 Regional Insights: Identify top-performing states for targeted strategies.
 📊 Performance Tracking: Track monthly profits and sub-category contributions.
 💡 Business Optimization: Understand customer preferences and payment trends to improve services.
-This dashboard is ideal for business analysts and decision-makers looking for meaningful insights into e-commerce sales performance.![Screenshot (5)](https://github.com/user-attachments/assets/50a9896b-18a0-4ee6-9cc0-17d6b6f13c11)
+This dashboard is ideal for business analysts and decision-makers looking for meaningful insights into e-commerce sales performance.
+
+![Screenshot (5)](https://github.com/user-attachments/assets/50a9896b-18a0-4ee6-9cc0-17d6b6f13c11)
 ![Screenshot (4)](https://github.com/user-attachments/assets/65ea6604-469c-4abb-86bb-8df9b17d5063)
 
 

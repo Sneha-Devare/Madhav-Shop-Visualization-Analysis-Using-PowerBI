@@ -105,7 +105,3 @@ If you found this project helpful:
 🔐 _“Great dashboards don’t just show data — they tell stories.”_ 💡
 
 
-![Screenshot (5)](https://github.com/user-attachments/assets/50a9896b-18a0-4ee6-9cc0-17d6b6f13c11)
-![Screenshot (4)](https://github.com/user-attachments/assets/65ea6604-469c-4abb-86bb-8df9b17d5063)
-
-
